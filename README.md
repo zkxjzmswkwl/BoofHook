@@ -1,4 +1,9 @@
 # BoofHook
+
+### Note:
+
+I will not mention the name of the server, nor will I be sharing any offsets/addresses/signatures that are applicable to the current build of that server's client. Anything you see here is only here because the game has updated and this code will no longer work. Be that due to the method used being patched, or due to the game updating and the offsets simply being out of date.
+
 admin had "admin commands" in the client that were just cheats for staff only.
 
 Looked like this:
